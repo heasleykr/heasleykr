@@ -1,7 +1,7 @@
 - 🔸 Hi, I’m Katelynn (@heasleykr). 
 - 🔸 I’m interested in the tech industry, self development, music, health & wellness.
-- 🔶 I’m currently working on a second bachelors in Computer Science and I'm specifically working on front-end development.
-- 🔸 I’m looking to expand my knowledge and skills in all areas of software engeineering, as I'm new to the field. 
+- 🔶 I’m currently working on a second bachelors in Computer Science and working towards software development.
+- 🔸 I’m looking to expand my knowledge and skills in all areas of software engineering, as I'm new to the field. 
 - 🔹 How to reach me: 
       - heasleykr@gmail.com
       - wwww.katelynnheasley.com
